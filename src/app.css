@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(to right, rgba(42, 40, 40, 0.212) 0%, rgb(124, 120, 120, 0.938) 100%);
+}
+
+.btn-1 {
+    background-color: rgb(58, 130, 158);
+}
+.btn-1:hover {
+    background-color: lightseagreen;
+}
