@@ -15,18 +15,18 @@ html {
       
 }
 
-.auto-grid {
-    --auto-grid-min-size: 16rem;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr));
-    grid-gap: 1rem;
-  }
-
 h1 {
     font-family: 'Montserrat', sans-serif;
         font-size: 3rem;
         color: #e2dbdb;
     }
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+        font-size: 3rem;
+        color: #F05F44;
+    }
+
 .btn {
     font-size: 700;
     border-radius: 300px;
@@ -51,5 +51,5 @@ h1 {
 hr {
     border-color: #F05F44;
     border-width: 3px;
-    width: 3em;
+    width: 4em;
 }
